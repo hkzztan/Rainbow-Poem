@@ -3,6 +3,7 @@ purple
 pink
 red
 blue
+Indigo
 green
 unicorn
 yellow
